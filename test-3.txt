@@ -1,0 +1,3 @@
+I opened it through VS Code  but not finding others file....lol
+Finally I'm able to open my directory folder
+read myGitTest.text file for instructions  

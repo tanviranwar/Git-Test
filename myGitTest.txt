@@ -1,0 +1,3 @@
+Create a Directory Folder and open
+Right click & choose Git GUI
+select create new repository and select directory folder path.
